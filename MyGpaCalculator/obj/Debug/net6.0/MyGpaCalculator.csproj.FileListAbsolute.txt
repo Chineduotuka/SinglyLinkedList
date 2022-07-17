@@ -1,0 +1,15 @@
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\MyGpaCalculator\bin\Debug\net6.0\MyGpaCalculator.exe
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\MyGpaCalculator\bin\Debug\net6.0\MyGpaCalculator.deps.json
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\MyGpaCalculator\bin\Debug\net6.0\MyGpaCalculator.runtimeconfig.json
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\MyGpaCalculator\bin\Debug\net6.0\MyGpaCalculator.dll
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\MyGpaCalculator\bin\Debug\net6.0\MyGpaCalculator.pdb
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\MyGpaCalculator\obj\Debug\net6.0\MyGpaCalculator.csproj.AssemblyReference.cache
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\MyGpaCalculator\obj\Debug\net6.0\MyGpaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\MyGpaCalculator\obj\Debug\net6.0\MyGpaCalculator.AssemblyInfoInputs.cache
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\MyGpaCalculator\obj\Debug\net6.0\MyGpaCalculator.AssemblyInfo.cs
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\MyGpaCalculator\obj\Debug\net6.0\MyGpaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\MyGpaCalculator\obj\Debug\net6.0\MyGpaCalculator.dll
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\MyGpaCalculator\obj\Debug\net6.0\refint\MyGpaCalculator.dll
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\MyGpaCalculator\obj\Debug\net6.0\MyGpaCalculator.pdb
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\MyGpaCalculator\obj\Debug\net6.0\MyGpaCalculator.genruntimeconfig.cache
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\MyGpaCalculator\obj\Debug\net6.0\ref\MyGpaCalculator.dll
