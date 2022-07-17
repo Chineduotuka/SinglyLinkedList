@@ -1,0 +1,16 @@
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\week2Creation\bin\Debug\net5.0\week2Creation.exe
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\week2Creation\bin\Debug\net5.0\week2Creation.deps.json
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\week2Creation\bin\Debug\net5.0\week2Creation.runtimeconfig.json
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\week2Creation\bin\Debug\net5.0\week2Creation.runtimeconfig.dev.json
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\week2Creation\bin\Debug\net5.0\week2Creation.dll
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\week2Creation\bin\Debug\net5.0\week2Creation.pdb
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\week2Creation\obj\Debug\net5.0\week2Creation.csproj.AssemblyReference.cache
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\week2Creation\obj\Debug\net5.0\week2Creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\week2Creation\obj\Debug\net5.0\week2Creation.AssemblyInfoInputs.cache
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\week2Creation\obj\Debug\net5.0\week2Creation.AssemblyInfo.cs
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\week2Creation\obj\Debug\net5.0\week2Creation.csproj.CoreCompileInputs.cache
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\week2Creation\obj\Debug\net5.0\week2Creation.dll
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\week2Creation\obj\Debug\net5.0\refint\week2Creation.dll
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\week2Creation\obj\Debug\net5.0\week2Creation.pdb
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\week2Creation\obj\Debug\net5.0\week2Creation.genruntimeconfig.cache
+C:\Users\solan\OneDrive\Desktop\GPA CALCULATOR\week2Creation\obj\Debug\net5.0\ref\week2Creation.dll

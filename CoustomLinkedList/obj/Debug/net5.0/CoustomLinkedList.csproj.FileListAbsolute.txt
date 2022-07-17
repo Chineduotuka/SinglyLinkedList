@@ -1,0 +1,12 @@
+C:\Users\solan\OneDrive\Desktop\storeModel\week2Creation\CoustomLinkedList\bin\Debug\net5.0\CoustomLinkedList.deps.json
+C:\Users\solan\OneDrive\Desktop\storeModel\week2Creation\CoustomLinkedList\bin\Debug\net5.0\CoustomLinkedList.dll
+C:\Users\solan\OneDrive\Desktop\storeModel\week2Creation\CoustomLinkedList\bin\Debug\net5.0\CoustomLinkedList.pdb
+C:\Users\solan\OneDrive\Desktop\storeModel\week2Creation\CoustomLinkedList\obj\Debug\net5.0\CoustomLinkedList.csproj.AssemblyReference.cache
+C:\Users\solan\OneDrive\Desktop\storeModel\week2Creation\CoustomLinkedList\obj\Debug\net5.0\CoustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\OneDrive\Desktop\storeModel\week2Creation\CoustomLinkedList\obj\Debug\net5.0\CoustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\solan\OneDrive\Desktop\storeModel\week2Creation\CoustomLinkedList\obj\Debug\net5.0\CoustomLinkedList.AssemblyInfo.cs
+C:\Users\solan\OneDrive\Desktop\storeModel\week2Creation\CoustomLinkedList\obj\Debug\net5.0\CoustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\solan\OneDrive\Desktop\storeModel\week2Creation\CoustomLinkedList\obj\Debug\net5.0\CoustomLinkedList.dll
+C:\Users\solan\OneDrive\Desktop\storeModel\week2Creation\CoustomLinkedList\obj\Debug\net5.0\refint\CoustomLinkedList.dll
+C:\Users\solan\OneDrive\Desktop\storeModel\week2Creation\CoustomLinkedList\obj\Debug\net5.0\CoustomLinkedList.pdb
+C:\Users\solan\OneDrive\Desktop\storeModel\week2Creation\CoustomLinkedList\obj\Debug\net5.0\ref\CoustomLinkedList.dll
